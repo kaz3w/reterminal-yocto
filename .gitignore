@@ -1,0 +1,7 @@
+# for vscode
+.vscode/
+*.code-workspace
+
+# for build image
+enable-proxy
+rfs/
